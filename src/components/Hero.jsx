@@ -4,7 +4,7 @@ import Typed from 'react-typed';
 
 function Hero() {
     return (
-        <div className='flex flex-col justify-center text-white w-full h-screen mx-auto text-center'>
+        <div className='flex flex-col justify-center text-white w-full h-screen mx-auto text-center items-center'>
             <p className='text-[#00df9a] sm:text-6xl md:text-7xl text-4xl font-bold p-2'>GROWING WITH DATA ANALYTICS</p>
             <h1 className='text-2xl sm:text-4xl md:text-5xl font-bold md:py-4'>
                 Grow with data.</h1>
